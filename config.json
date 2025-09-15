@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "28b2304a-e0fc-4600-91de-41f18ad3164d",
+            "id": "61a5f8a0-255e-4ec9-a39f-fd1d81742db2",
             "level": 0,
             "email": "ragnardiscussion@gmail.com"
           }
@@ -16,7 +16,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/mountain"
+          "path": "/ShahinVip"
         }
       }
     }
@@ -27,7 +27,7 @@
       "settings": {
         "servers": [
           {
-            "address": "s10.ettunel5g.xyz", 
+            "address": "gith49.injoyvipvpn.xyz", 
             "port": 9720
           }
         ]
